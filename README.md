@@ -2,7 +2,7 @@
 
 FeedPulse is a full-stack internal tool that lets teams collect product feedback and feature requests, then uses **Google Gemini AI** to automatically categorise, prioritise, and summarise them — giving product teams instant clarity on what to build next.
 
-![FeedPulse Dashboard](docs/screenshot-dashboard.png)
+![FeedPulse Dashboard](docs/admin_dashboard.png)
 
 ---
 
